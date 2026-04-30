@@ -1,0 +1,1 @@
+# bot-mecanica-vibeCoding
