@@ -1,1 +1,1 @@
-# bot-mecanica-vibeCoding
+# bot-mecanica
