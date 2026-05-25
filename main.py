@@ -1,7 +1,7 @@
 import sys
-from bot.core.filas import GerenciadorFilas
-from bot.core.gerenciador_usuarios import GerenciadorUsuarios
-from bot.services.processador import ProcessadorMensagens
+from bot.core import GerenciadorFilas
+from bot.core import GerenciadorUsuarios
+from bot.services import ProcessadorMensagens
 
 def modo_interativo():
     print("=== INICIANDO SISTEMA AUTOBOT OFICINA MECÂNICA ===")

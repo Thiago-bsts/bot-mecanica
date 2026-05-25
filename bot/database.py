@@ -1,7 +1,4 @@
 # ESTRUTURA DE DADOS: HashMap (Dicionário / dict)
-# POR QUE: O dicionário é usado aqui para armazenar a base de conhecimento do bot.
-# Ele permite acessar os dados de um serviço ou diagnóstico específico em tempo constante O(1)
-# usando a chave (o número da opção). Isso é extremamente eficiente para buscas.
 
 SERVICOS_PRECOS = {
     "1": {"nome": "Troca de óleo", "preco": 150.0},
